@@ -17,7 +17,7 @@ includes:
 search: true
 ---
 
-# About Shadow
+# Introduction
 
 Born on July 19, 2014, Shadow quickly distinguished itself as an innovative and unique open source project with a mission to create the first truly anonymous and decentralized cryptocurrency built with Bitcoin’s code. At the time, most cryptocurrencies had traits analogous to traditional bank accounts with transactional protocols similar to credit cards. The anonymity of cash-like system had yet to be realized within the cryptocurrency space. The Shadow Project development team tasked themselves to create just that. Inspired by the Cypherpunk anonymity movement, the Shadow Project developers began fusing several online technologies and services while simultaneously integrating security improvements based on zero knowledge cryptography. After its first birthday, Shadow had evolved from a simple idea into one of the most advanced cryptocurrency projects to date. ShadowSend development has created near-instant, untraceable/unlinkable and trustless transactions utilizing  non-interactive zero knowledge proofs, dual-key stealth addresses, and ring signatures. Shadow will soon offer a complete privacy platform which aims to establish an anonymous economy, delivering total financial freedom and privacy to all.
 
@@ -27,18 +27,37 @@ Due to their superiority over traditional methods of exchange, virtual currencie
 
 On December 10, 1948, the General Assembly of the United Nations adopted and proclaimed the Universal Declaration of Human Rights. Article 12 states, “No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks” [ link ]. Nearly 67 years later, we believe this declaration to be more important than ever. To help protect this most basic right to privacy, The Shadow Project is building an encrypted, digital ecosystem. Cryptographic innovations will catalyze the evolution of communication, commerce, and currency. Shadow’s mission is to remain at the forefront of this evolution with it’s decentralized privacy platform, made available to all operating systems.
 
-## Shadow next to ...
+## Open source
 
-### Bitcoin
+Everyone can contribute and suggest changes. The majority of the users decides if changes are in fact processed. The code is open to be viewed and studied by anyone, so any monitoring can be done at any given time without notice or any request.
+
+## User friendly
+
+Shadow is perfect for the development of user friendly payment systems such as mobile payments. Because of the automation this system is very safe already and saves a lot of time and money. Shadow is free to use and to get started with accepting ShadowCash is easy, simply download the latest Shadow client and you are ready to go. There are no third party payment processors or middlemen and more importantly the transactions and funds appear in your account in seconds.
+
+## Decentralized
+Shadow policy and protocol is edited and determined by users, changes are only made when the majority votes to make any changes happen. There is no centralized organization, bank or government involved. Because of Shadow's digital nature, transactions are processed within minutes without any third parties.
+
+## Safe
+
+Just like regular coins ShadowCash is stored in a wallet you manage and keep safe yourself. ShadowCash are stored in a digital wallet you can install on your computer and/or on your smartphone. Security is handled with a pin or password of your choosing and you can easily make a backup of your wallet as well.
+
+## Private
+
+ShadowSend‘s unique zero-knowledge, dual-key stealth address and ring signature protocol enables near-instant, untraceable, unlinkable and trustless transactions.
+
+## Comparisons
+
+### Shadow vs Bitcoin
 
 Shadow functions on the same core principles from which Bitcoin was founded. There is no central authority or bank mechanism that controls the flow of transactions. 
 
-### Zerocoin
+### Shadow vs Zerocoin
 Shadow does not require the initial trusted parameter setup which is present in the Zerocoin and Zerocash scheme.
 
-### Monero
+### Shadow vs Monero
 
-### Dash
+### Shadow vs Dash
 
 # Community
 
@@ -47,16 +66,18 @@ Aboutshadow.com is dedicated to help Shadow’s community develop in a sustainab
 
 ## Social Media
 
-Below you will find a list of places where you can find other Shadow users, community members and news.
+Shadow has a very active community. Below you will find a list of places where you can find other Shadow users, community members and more information about the Shadow project.
+
 - IRC: freenode.net #shadowcash
-- Forum: http://www.talk.shadowproject.io
-- Slack: http://shadowproject.herokuapp.com/
+- Forum: http://talk.shadowproject.io
+- Blog: http://blog.shadowproject.io
+- Slack: http://slack.shadowproject.io
 - Reddit: https://www.reddit.com/r/ShadowCash
-- Twitter: http://www.twitter.com/allaboutshadow
+- Twitter: http://www.twitter.com/sdcoin
 
 # ShadowCash
 
-## Specification
+## Specifications
 
 - Block Time: 60 seconds
 - Difficulty Re-target: every block
@@ -67,13 +88,28 @@ Below you will find a list of places where you can find other Shadow users, comm
 - P2P Port: 51737
 - RPC Port: 51736
 
-## Accept
+## Networks
 
-To get started with accepting ShadowCash is easy, simply download the latest Shadow client and you are ready to go. There are no third party payment processors or middlemen and more importantly the transactions and funds appear in your account in seconds.
+A main and test network are established. The test network can be used to develop and test applications.
 
-## Acquire
+Main net
 
-Currently, you can only buy ShadowCash(SDC) once you have Bitcoin(BTC), then you can trade BTC for SDC on premium crypto-to-crypto exchanges.
+More info coming soon.
+
+Test net
+
+More info coming soon.
+
+## Exchanges
+
+These are the current exchanges where you can trade ShadowCash.
+
+Bittrex - BTC
+Bleutrade - BTC - LTC - DOGE
+Coin-swap.net - BTC - DOGE
+Crypto-Prices.com - BTC - USD
+KryptoKursy.pl - BTC - PLN
+LiteBit.eu - EUR
 
 ShadowCash is available at these exchanges:
 
